@@ -1,3 +1,10 @@
+# 00 Tips
+if 176 <= boxeador_peso <= 200:
+
+#Primeira parte: 176 <= boxeador_peso: Verifica se o valor de boxeador_peso é maior ou igual a 176.
+
+#Segunda parte: boxeador_peso <= 200: Verifica se o valor de boxeador_peso é menor ou igual a 200.
+
 # 01 Tips
 
 class Dog:
